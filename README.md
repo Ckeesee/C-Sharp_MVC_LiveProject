@@ -6,9 +6,15 @@ Below are descriptions of some of the stories/assignments that I worked on with 
 
 <strong>Front End Stories</strong>
 
-![image](https://user-images.githubusercontent.com/6036522/155775522-99af35cc-1868-4b60-93f1-9f89c1b67a77.png)
+![image](https://user-images.githubusercontent.com/6036522/155777609-763fb0e1-314e-44cc-9708-3658e0f71d5f.png)
 Home page Styling
 
-![image](https://user-images.githubusercontent.com/6036522/155775731-f2c3fdb8-fc8a-4632-80db-762fa3eb54b4.png)
+![image](https://user-images.githubusercontent.com/6036522/155777207-c786022b-df4c-493f-8c75-463839ca9cd2.png)
 Organization and layout of the production photos index page
+
+
+
+<strong>Back End Stories</strong>
+
+Utlizing Entity Framework for Database CRUD pages
 
