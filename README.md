@@ -6,13 +6,17 @@ Below are descriptions of some of the stories/assignments that I worked on with 
 
 # Front End Stories
 
-![image](https://user-images.githubusercontent.com/6036522/155777609-763fb0e1-314e-44cc-9708-3658e0f71d5f.png)
+![image](https://user-images.githubusercontent.com/6036522/155783777-26de6bd5-e7a0-4914-b1ae-e4a87c393a67.png)
+
 Home page Styling
 
-![image](https://user-images.githubusercontent.com/6036522/155777207-c786022b-df4c-493f-8c75-463839ca9cd2.png)
+![image](https://user-images.githubusercontent.com/6036522/155783791-2227dfa9-84e7-4d12-bd32-ba3927a0976e.png)
+
 Organization and layout of the production photos index page
 
+![image](https://user-images.githubusercontent.com/6036522/155783871-4b9906b8-ccc4-43a5-adda-3f9c32569fab.png)
 
+On the Creation page allowed the preview of the image to be uploaded using JavaScript
 
 # Back End Stories
 
