@@ -7,3 +7,8 @@ Below are descriptions of some of the stories/assignments that I worked on with 
 <strong>Front End Stories</strong>
 
 ![image](https://user-images.githubusercontent.com/6036522/155775522-99af35cc-1868-4b60-93f1-9f89c1b67a77.png)
+Home page Styling
+
+![image](https://user-images.githubusercontent.com/6036522/155775731-f2c3fdb8-fc8a-4632-80db-762fa3eb54b4.png)
+Organization and layout of the production photos index page
+
