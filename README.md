@@ -33,6 +33,14 @@ On the Creation page allowed the preview of the image to be uploaded using JavaS
 
 # Back End Stories
 
+Image Conversion to byte array for storage
+
+![image](https://user-images.githubusercontent.com/6036522/156054334-22845577-dfd3-40bd-b72e-00083a7cdb03.png)
+
+Created a method to convert images uploaded by the users for the produciton photos that then allow for the storage of them in the database as a byte array. Then created a method to retrive the image and convert it back to be displayed on the index and details pages. 
+
+Entity Framework and CRUD Pages
+
 ![image](https://user-images.githubusercontent.com/6036522/156051713-29b980af-26a1-4a9c-8db6-f1c7f58b11d2.png) ![image](https://user-images.githubusercontent.com/6036522/156051849-3fd52897-bd38-4bc6-be35-3fe94632b918.png) ![image](https://user-images.githubusercontent.com/6036522/156051904-001f71f3-b957-4fd2-bdb5-4bab7f7a455e.png)
 
 
