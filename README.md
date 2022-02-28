@@ -33,5 +33,10 @@ On the Creation page allowed the preview of the image to be uploaded using JavaS
 
 # Back End Stories
 
-Utlizing Entity Framework for Database CRUD pages
+![image](https://user-images.githubusercontent.com/6036522/156051713-29b980af-26a1-4a9c-8db6-f1c7f58b11d2.png) ![image](https://user-images.githubusercontent.com/6036522/156051849-3fd52897-bd38-4bc6-be35-3fe94632b918.png) ![image](https://user-images.githubusercontent.com/6036522/156051904-001f71f3-b957-4fd2-bdb5-4bab7f7a455e.png)
+
+
+
+
+Utlizing Entity Framework for Database CRUD pages and modifying the properties to create a database with different variables from byte arrays to titles and descriptions.
 
